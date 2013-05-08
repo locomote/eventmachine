@@ -1,3 +1,9 @@
+# Y U FORK?
+
+Because we're dealing with a server that suffers SSL handshake issues with openssl version 1.0.1.
+See [here](http://rt.openssl.org/Ticket/Display.html?id=2771&user=guest&pass=guest)
+
+
 # About EventMachine #
 
 
